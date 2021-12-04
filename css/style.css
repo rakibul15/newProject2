@@ -534,7 +534,7 @@ border: none !important;
   transition: all 0.3s;
   display: block;
   width: 100%;
-  height:auto;
+  height:158px;
   position: relative;
   object-fit: cover;
   padding: 15px;
